@@ -1,0 +1,373 @@
+{
+	"pitanjaNivo1": [
+		{
+			"id": 1,
+			"pitanje": "Šta se obično poslužuje u šoljicama?",
+			"potencijalniOdgovori": ["supa", "kafa", "šnicla", "kajmak"],
+			"dobarOdgovor": "kafa",
+			"idDobrogOdgovora": "1"
+			
+		},
+		{
+			"id": 2,
+			"pitanje": "Kako se kaže za onoga koji sve shvata doslovno?",
+			"potencijalniOdgovori": ["brezast", "hrastovit", "bukvalan", "kestenjast"],
+			"dobarOdgovor": "bukvalan",
+			"idDobrogOdgovora": "2"
+			
+		},
+		{
+			"id": 3,
+			"pitanje": "Porodica može biti šira i...",
+			"potencijalniOdgovori": ["duža", "viša", "niža", "uža"],
+			"dobarOdgovor": "uža",
+			"idDobrogOdgovora": "3"
+			
+		},
+		{
+			"id": 4,
+			"pitanje": "Propan je vrsta...",
+			"potencijalniOdgovori": ["stakla", "gasa", "kamena", "pamuka"],
+			"dobarOdgovor": "gasa",
+			"idDobrogOdgovora": "1"
+			
+		},
+		{
+			"id": 5,
+			"pitanje": "Koji od ovih igrača je nastupao za reprezentaciju Engleske?",
+			"potencijalniOdgovori": ["Mihael Balak", "Vejn Runi", "Leo Mesi", "David Trezege"],
+			"dobarOdgovor": "Vejn Runi",
+			"idDobrogOdgovora": "1"
+			
+		},
+		{
+			"id": 6,
+			"pitanje": "Šta je abakus",
+			"potencijalniOdgovori": ["Drvo", "Ptica", "Računaljka", "Mineral"],
+			"dobarOdgovor": "Računaljka",
+			"idDobrogOdgovora": "2"
+			
+		},
+		{
+			"id": 7,
+			"pitanje": "Reči suprotnog značenja su...",
+			"potencijalniOdgovori": ["antonimi", "akronimi", "sinonimi", "inonimi"],
+			"dobarOdgovor": "antonimi",
+			"idDobrogOdgovora": "0"
+			
+		},
+		{
+			"id": 8,
+			"pitanje": "Karakterna osobina je:",
+			"potencijalniOdgovori": ["taština", "tazbina", "sestričina", "dedovina"],
+			"dobarOdgovor": "taština",
+			"idDobrogOdgovora": "0"
+			
+		},
+		{
+			"id": 9,
+			"pitanje": "U kom gradu se održava festival EXIT?",
+			"potencijalniOdgovori": ["Novi Sad", "Niš", "Beograd", "Kragujevac"],
+			"dobarOdgovor": "Novi Sad",
+			"idDobrogOdgovora": "0"
+			
+		},
+		{
+			"id": 10,
+			"pitanje": "Tenk ima:",
+			"potencijalniOdgovori": ["gusenice", "guštere", "gubare", "gliste"],
+			"dobarOdgovor": "gusenice",
+			"idDobrogOdgovora": "0"
+			
+		},
+		{
+			"id": 11,
+			"pitanje": "Sa koliko godina većina dece polazi u osnovnu školu kod nas?",
+			"potencijalniOdgovori": ["četiri", "pet", "sedam", "devet"],
+			"dobarOdgovor": "sedam",
+			"idDobrogOdgovora": "2"
+			
+		},
+		{
+			"id": 12,
+			"pitanje": "Na turskom jeziku česma, a na srpskom",
+			"potencijalniOdgovori": ["fosna", "slavina", "odvrtka", "bezdan"],
+			"dobarOdgovor": "slavina",
+			"idDobrogOdgovora": "1"
+			
+		},
+		{
+			"id": 13,
+			"pitanje": "Skraćenica pH obično stoji uz vrednost, a Rh...",
+			"potencijalniOdgovori": ["uz neutron", "uz fokus", "uz faktor", "uz foton"],
+			"dobarOdgovor": "uz faktor",
+			"idDobrogOdgovora": "2"
+			
+		},
+		{
+			"id": 14,
+			"pitanje": "Odakle vas je izbacio neko ko vam je poremetio plan ili dnevni raspored?",
+			"potencijalniOdgovori": ["iz koloseka", "iz lifta", "iz čekaonice", "iz reda u pošti"],
+			"dobarOdgovor": "iz koloseka",
+			"idDobrogOdgovora": "0"
+			
+		},
+		{
+			"id": 15,
+			"pitanje": "Koja padežna pitanja povezujemo uz genitiv?",
+			"potencijalniOdgovori": ["kome / čemu", "s kim / čime", "koga / šta", "koga / čega"],
+			"dobarOdgovor": "koga / čega",
+			"idDobrogOdgovora": "3"
+			
+		}
+		
+	],
+	"pitanjaNivo2": [
+		{
+			"id": 1,
+			"pitanje": "Ako su Danci nastanjeni na starom, onda su Sudanci nastanjeni na - kakvom kontinentu?",
+			"potencijalniOdgovori": ["na belom", "na crnom", "na žutom", "na plavom"],
+			"dobarOdgovor": "na crnom",
+			"idDobrogOdgovora": "1"
+			
+		},
+		{
+			"id": 2,
+			"pitanje": "Najkraći dan u godini je u:",
+			"potencijalniOdgovori": ["oktobru", "decembru", "aprilu", "junu"],
+			"dobarOdgovor": "decembru",
+			"idDobrogOdgovora": "1"
+			
+		},
+		{
+			"id": 3,
+			"pitanje": "Post festum je:",
+			"potencijalniOdgovori": ["posle venčanja", "posle festivala", "posle rođenja", "posle svečanosti"],
+			"dobarOdgovor": "posle svečanosti",
+			"idDobrogOdgovora": "3"
+			
+		},
+		{
+			"id": 4,
+			"pitanje": "Kako se zove američki ples sa početka prošlog veka, čije ime u prevodu znači \"lisiciji hod\"?",
+			"potencijalniOdgovori": ["tvist", "fokstrot", "čarlston", "bugi - vugi"],
+			"dobarOdgovor": "fokstrot",
+			"idDobrogOdgovora": "1"
+			
+		},
+		{
+			"id": 5,
+			"pitanje": "U kojoj državi se odvija radnja romana \"Stranac\" Alberta Kamija?",
+			"potencijalniOdgovori": ["Poljska", "Tunis", "Francuska", "Alžir"],
+			"dobarOdgovor": "Alžir",
+			"idDobrogOdgovora": "3"
+			
+		},
+		{
+			"id": 6,
+			"pitanje": "Iz kog grada je TAM",
+			"potencijalniOdgovori": ["Sombor", "Priboj", "Novo Mesto", "Maribor"],
+			"dobarOdgovor": "Maribor",
+			"idDobrogOdgovora": "3"
+			
+		},
+		{
+			"id": 7,
+			"pitanje": "Egzorcista:",
+			"potencijalniOdgovori": ["obučava vojsku", "priziva duhove", "tera đavola", "proriče sudbinu"],
+			"dobarOdgovor": "tera đavola",
+			"idDobrogOdgovora": "2"
+			
+		},
+		{
+			"id": 8,
+			"pitanje": "Ko je pobednik evropskog prvenstva u fudbalu 1992. godine?",
+			"potencijalniOdgovori": ["Portugal", "Holandija", "Danska", "Francuska"],
+			"dobarOdgovor": "Danska",
+			"idDobrogOdgovora": "2"
+			
+		},
+		{
+			"id": 9,
+			"pitanje": "Platfusar ima:",
+			"potencijalniOdgovori": ["ravne tabane", "dugacke ruke", "veliku glavu", "visoko čelo"],
+			"dobarOdgovor": "ravne tabane",
+			"idDobrogOdgovora": "0"
+			
+		},
+		{
+			"id": 10,
+			"pitanje": "Cekin je:",
+			"potencijalniOdgovori": ["sveštenik", "bakrenjak", "zlatnik", "srebrenjak"],
+			"dobarOdgovor": "zlatnik",
+			"idDobrogOdgovora": "2"
+			
+		},
+		{
+			"id": 11,
+			"pitanje": "Prvi kišobran na rasklapanje pojavio se 1851. godine u:",
+			"potencijalniOdgovori": ["Belgiji", "Italiji", "Francuskoj", "Engleskoj"],
+			"dobarOdgovor": "Engleskoj",
+			"idDobrogOdgovora": "3"
+			
+		},
+		{
+			"id": 12,
+			"pitanje": "Električna struja može biti naizmenična i:",
+			"potencijalniOdgovori": ["paralelna", "indirektna", "jednosmerna", "konkavna"],
+			"dobarOdgovor": "jednosmerna",
+			"idDobrogOdgovora": "2"
+			
+		},
+		{
+			"id": 13,
+			"pitanje": "Ako za kućnog ljubimca imate Gupija, morate imati:",
+			"potencijalniOdgovori": ["kavez", "povodac", "činiju za hranu", "akvarijum"],
+			"dobarOdgovor": "akvarijum",
+			"idDobrogOdgovora": "3"
+			
+		},
+		{
+			"id": 14,
+			"pitanje": "Milton Manaki je pionir:",
+			"potencijalniOdgovori": ["avijacije", "automobilizma", "fotografije", "filma"],
+			"dobarOdgovor": "filma",
+			"idDobrogOdgovora": "3"
+			
+		},
+		{
+			"id": 15,
+			"pitanje": "Koja je razlika u godinama između našeg i jevrejskog kalendara?",
+			"potencijalniOdgovori": ["3612 godina", "5124 godine", "2048 godina", "5000 godina"],
+			"dobarOdgovor": "5124 godine",
+			"idDobrogOdgovora": "1"
+			
+		}
+		
+		
+	],
+	"pitanjaNivo3": [
+		{
+			"id": 1,
+			"pitanje": "Gde je najdublja tačka na Zemlji i kolika je to dubina?",
+			"potencijalniOdgovori": ["U Indijskom okeanu 12105 m", "U Tihom okeanu 11215 m", "U Atlanskom okeanu 11023 m", "U Tihom okeanu 11035 m"],
+			"dobarOdgovor": "U Tihom okeanu 11035 m",
+			"idDobrogOdgovora": "3"
+			
+		},
+		{
+			"id": 2,
+			"pitanje": "Po čemu je Argentina dobila ime?",
+			"potencijalniOdgovori": ["po boji", "po srebru", "po Madoninoj pesmi", "po konkvistadorima"],
+			"dobarOdgovor": "po srebru",
+			"idDobrogOdgovora": "1"
+			
+		},
+		{
+			"id": 3,
+			"pitanje": "Koja je druga najveća planeta u Sunčevom sistemu?",
+			"potencijalniOdgovori": ["Jupiter", "Uran", "Saturn", "Neptun"],
+			"dobarOdgovor": "Saturn",
+			"idDobrogOdgovora": "2"
+			
+		},
+		{
+			"id": 4,
+			"pitanje": "Koji je matematički pojam za broj koji je jednak zbiru svojih delilaca, isključujući samog sebe?",
+			"potencijalniOdgovori": ["Prosti broj", "Savršen broj", "Kompozitni broj", "Složeni broj"],
+			"dobarOdgovor": "Savršen broj",
+			"idDobrogOdgovora": "1"
+			
+		},
+		{
+			"id": 5,
+			"pitanje": "Koji je najstariji univerzitet na svetu koji još uvek funkcioniše?",
+			"potencijalniOdgovori": ["Univerzitet u Bolonji", "Univerzitet u Oksfordu", "Univerzitet u Parizu", "Univerzitet Al-Karavijin"],
+			"dobarOdgovor": "Univerzitet Al-Karavijin",
+			"idDobrogOdgovora": "3"
+			
+		},
+		{
+			"id": 6,
+			"pitanje": "Na kom je jeziku originalna verzija dnevnika Ane Frank prvi put objavljena?",
+			"potencijalniOdgovori": ["holandskom", "engleskom", "francuskom", "nemačkom"],
+			"dobarOdgovor": "holandskom",
+			"idDobrogOdgovora": "0"
+			
+		},
+		{
+			"id": 7,
+			"pitanje": "Ko od navedenih nema hemijski element nazvan po sebi?",
+			"potencijalniOdgovori": ["Albert Ajnštajn", "Nils Bor", "Isak Njutn", "Enriko Fermi"],
+			"dobarOdgovor": "Isak Njutn",
+			"idDobrogOdgovora": "2"
+			
+		},
+		{
+			"id": 8,
+			"pitanje": "Kako se zove poslednje delo Fjodora Dostojevskog?",
+			"potencijalniOdgovori": ["\"Braća Karamazovi\"", "\"Zločin i kazna\"", "\"Mladić\"", "\"Idiot\""],
+			"dobarOdgovor": "\"Braća Karamazovi\"",
+			"idDobrogOdgovora": "0"
+			
+		},
+		{
+			"id": 9,
+			"pitanje": "Naziv za piće „viski“ potekao je od škotskog gelskog jezika i znači…",
+			"potencijalniOdgovori": ["Vatra boga", "Ljuta voda", "Vatra žita", "Voda života"],
+			"dobarOdgovor": "Voda života",
+			"idDobrogOdgovora": "3"
+			
+		},
+		{
+			"id": 10,
+			"pitanje": "Gnatoneuralgija je šta?",
+			"potencijalniOdgovori": ["Bol lica", "Bol kolena", "Bol prepona", "Bol ramena"],
+			"dobarOdgovor": "Bol lica",
+			"idDobrogOdgovora": "0"
+			
+		},
+		{
+			"id": 11,
+			"pitanje": "Koliko danas ima monarhija u Evropi?",
+			"potencijalniOdgovori": ["10", "12", "6", "8"],
+			"dobarOdgovor": "12",
+			"idDobrogOdgovora": "1"
+			
+		},
+		{
+			"id": 12,
+			"pitanje": "Ig de Pejen je osnovao?",
+			"potencijalniOdgovori": ["Red vitezova templara", "Malteške Vitezove", "Iluminate", "Red zmaja"],
+			"dobarOdgovor": "Red vitezova templara",
+			"idDobrogOdgovora": "0"
+			
+		},
+		{
+			"id": 13,
+			"pitanje": "Koja je najviša planina u Kanadi?",
+			"potencijalniOdgovori": ["Logan", "Sveti Ilija", "Robson", "Vistler"],
+			"dobarOdgovor": "Logan",
+			"idDobrogOdgovora": "0"
+			
+		},
+		{
+			"id": 14,
+			"pitanje": "Koji poznati kompozitor je napisao muziku za film \"Psiho\"?",
+			"potencijalniOdgovori": ["Bernard Herman", "Henri Mancin", "Džon Vilijams", "Enio Morikone"],
+			"dobarOdgovor": "Bernard Herman",
+			"idDobrogOdgovora": "0"
+			
+		},
+		{
+			"id": 15,
+			"pitanje": "Koji je najveći proizvođač platine na svetu?",
+			"potencijalniOdgovori": ["Rusija", "Kanada", "Južnoafrička Republika", "Kina"],
+			"dobarOdgovor": "Južnoafrička Republika",
+			"idDobrogOdgovora": "2"
+			
+		}
+
+
+	]
+}
