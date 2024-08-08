@@ -516,7 +516,7 @@ public class Frame extends JFrame implements ActionListener, MouseListener {
 				if (btn1.getText().equals(Pomocna.dobarOdg)) {
 					try {
 						Pomocna.nakonPoslatogOdgovora(panelPotvrda, btn1, btn2, btn3, btn4, borderDefault,
-								borderAdvanced, textArea);
+								borderAdvanced);
 
 					} catch (IOException e) {
 						// TODO Auto-generated catch block
@@ -528,7 +528,7 @@ public class Frame extends JFrame implements ActionListener, MouseListener {
 				} else {
 					try {
 						Pomocna.nakonPoslatogOdgovora(panelPotvrda, btn1, btn2, btn3, btn4, borderDefault,
-								borderAdvanced, textArea);
+								borderAdvanced);
 
 					} catch (IOException e) {
 						// TODO Auto-generated catch block
@@ -546,7 +546,7 @@ public class Frame extends JFrame implements ActionListener, MouseListener {
 				if (btn2.getText().equals(Pomocna.dobarOdg)) {
 					try {
 						Pomocna.nakonPoslatogOdgovora(panelPotvrda, btn1, btn2, btn3, btn4, borderDefault,
-								borderAdvanced, textArea);
+								borderAdvanced);
 
 					} catch (IOException e) {
 						// TODO Auto-generated catch block
@@ -559,7 +559,7 @@ public class Frame extends JFrame implements ActionListener, MouseListener {
 				} else {
 					try {
 						Pomocna.nakonPoslatogOdgovora(panelPotvrda, btn1, btn2, btn3, btn4, borderDefault,
-								borderAdvanced, textArea);
+								borderAdvanced);
 
 					} catch (IOException e) {
 						// TODO Auto-generated catch block
@@ -577,7 +577,7 @@ public class Frame extends JFrame implements ActionListener, MouseListener {
 				if (btn3.getText().equals(Pomocna.dobarOdg)) {
 					try {
 						Pomocna.nakonPoslatogOdgovora(panelPotvrda, btn1, btn2, btn3, btn4, borderDefault,
-								borderAdvanced, textArea);
+								borderAdvanced);
 
 					} catch (IOException e) {
 						// TODO Auto-generated catch block
@@ -590,7 +590,7 @@ public class Frame extends JFrame implements ActionListener, MouseListener {
 				} else {
 					try {
 						Pomocna.nakonPoslatogOdgovora(panelPotvrda, btn1, btn2, btn3, btn4, borderDefault,
-								borderAdvanced, textArea);
+								borderAdvanced);
 
 					} catch (IOException e) {
 						// TODO Auto-generated catch block
@@ -607,7 +607,7 @@ public class Frame extends JFrame implements ActionListener, MouseListener {
 				if (btn4.getText().equals(Pomocna.dobarOdg)) {
 					try {
 						Pomocna.nakonPoslatogOdgovora(panelPotvrda, btn1, btn2, btn3, btn4, borderDefault,
-								borderAdvanced, textArea);
+								borderAdvanced);
 
 					} catch (IOException e) {
 						// TODO Auto-generated catch block
@@ -620,7 +620,7 @@ public class Frame extends JFrame implements ActionListener, MouseListener {
 				} else {
 					try {
 						Pomocna.nakonPoslatogOdgovora(panelPotvrda, btn1, btn2, btn3, btn4, borderDefault,
-								borderAdvanced, textArea);
+								borderAdvanced);
 
 					} catch (IOException e) {
 						// TODO Auto-generated catch block

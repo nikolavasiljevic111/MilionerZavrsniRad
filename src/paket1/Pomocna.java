@@ -243,29 +243,29 @@ public class Pomocna extends Frame {
 	}
 
 	public static void nakonPoslatogOdgovora(JPanel potvrdaOdgovora, JButton btn1, JButton btn2, JButton btn3,
-			JButton btn4, Border borderDefault, Border borderAdvanced, JTextArea txt)
+			JButton btn4, Border borderDefault, Border borderAdvanced)
 			throws IOException, ParseException {
 		potvrdaOdgovora.setVisible(false);
 
 		if (btn1.getBorder().equals(borderAdvanced)) {
-			buttonAnimation(btn1, txt);
+			buttonAnimation(btn1);
 
 		}
 		if (btn2.getBorder().equals(borderAdvanced)) {
-			buttonAnimation(btn2, txt);
+			buttonAnimation(btn2);
 
 		}
 		if (btn3.getBorder().equals(borderAdvanced)) {
-			buttonAnimation(btn3, txt);
+			buttonAnimation(btn3);
 
 		}
 		if (btn4.getBorder().equals(borderAdvanced)) {
-			buttonAnimation(btn4, txt);
+			buttonAnimation(btn4);
 
 		}
 	}
 
-	public static void buttonAnimation(JButton btn, JTextArea txt) {
+	public static void buttonAnimation(JButton btn) {
 		dobarButton = getCorrectButton();
 		if (btn.equals(dobarButton)) {
 			btn.setBackground(Color.YELLOW);
